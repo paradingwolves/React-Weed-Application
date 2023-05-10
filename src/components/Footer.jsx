@@ -17,6 +17,7 @@ function Footer() {
         <LinkedIn /> 
       </div>
       <p> &copy; 2023 justinszaza.ca</p>
+      <p> Header Image Logo Credit: <a href='https://pngtree.com/so/king'>king png from pngtree.com/</a></p>
     </div>
   )
 }
